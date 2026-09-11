@@ -2,7 +2,7 @@
 
 Formada em Análise e Desenvolvimento de Sistemas e atualmente cursando Desenvolvimento Full Stack.
 
-Gosto de construir coisas que resolvem problemas reais — dos que encontro no dia a dia de trabalho aos que me desafiam tecnicamente. Meus projetos costumam nascer daí.
+Gosto de construir coisas que resolvem problemas reais dos que encontro no dia a dia de trabalho aos que me desafiam tecnicamente. Meus projetos costumam nascer daí.
 
 **Buscando oportunidade de estágio ou trainee em desenvolvimento.**
 
