@@ -28,10 +28,11 @@ Aplicação web que calcula emissões a partir de consumo de energia, deslocamen
 🔗 [Ver aplicação](https://dayzxs.github.io/calculadora-pegada-carbono)
 
 **🎓 UNITEC** — HTML, CSS, JavaScript  
-Site institucional desenvolvido em equipe. Fui responsável pela interface, identidade visual e arquitetura de arquivos do projeto.
+Site institucional desenvolvido em equipe. Fui responsável pela interface, identidade visual e arquitetura de arquivos do projeto.  
+🔗 [Ver site](https://unitec2024.github.io/unitec/)
 
 ---
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/dayanerodrigues-9056b5205)
+[LinkedIn](https://www.linkedin.com/in/dayane-rodrigues-9056b5205/)
