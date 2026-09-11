@@ -1,16 +1,38 @@
-## Hi there 👋
+## Olá, eu sou a Dayane 👋
 
-<!--
-**Dayzxs/Dayzxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formada em Análise e Desenvolvimento de Sistemas e atualmente cursando Desenvolvimento Full Stack.
 
-Here are some ideas to get you started:
+Gosto de construir coisas que resolvem problemas reais dos que eu encontro no dia a dia de trabalho aos que me desafiam tecnicamente. Meus projetos costumam nascer daí.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Buscando oportunidade de estágio ou trainee em desenvolvimento.**
+
+---
+
+### 🛠️ Tecnologias
+
+**Back-end:** Python, FastAPI, SQLAlchemy, Java
+**Front-end:** HTML, CSS, JavaScript
+**Banco de dados:** SQLite, SQL
+**Ferramentas:** Git, GitHub, VS Code, Render
+
+---
+
+### 📌 Projetos
+
+**🌐 API de Gestão de Resíduos** — Python, FastAPI, SQLAlchemy, SQLite
+API REST com CRUD completo, filtros combináveis, paginação e endpoints de relatório com indicadores calculados. Documentação interativa gerada automaticamente.
+🔗 Ver API no ar
+
+**📊 Calculadora de Pegada de Carbono** — HTML, CSS, JavaScript
+Aplicação web que calcula emissões a partir de consumo de energia, deslocamento e descarte de resíduos, com histórico salvo localmente.
+🔗 Ver aplicação
+
+**🎓 UNITEC** — HTML, CSS, JavaScript
+Site institucional desenvolvido em equipe. Fui responsável pela interface, identidade visual e arquitetura de arquivos do projeto.
+
+---
+
+### 📫 Contato
+
+LinkedIn
+```
